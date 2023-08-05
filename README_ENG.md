@@ -2,13 +2,13 @@
 
 ## Summary
 
-Hello and welcome to my repository! 
+Hello! My name is ``Anton``, I am a Junior QA specialist! 
 Here I'd like to share my cases, pet and training projects with you.
 
 ## About me
 I graduated from Omsk State University in 2016, Foreign languages department. 
 Since 2018 I've been working at international projects in linguistic and safety positions. 
-Now I am changing the course once again and look for career opportunity as QA specialist. 
+Now I am changing the course once again and look for career opportunity as ``QA specialist``. 
 
 ## My pros
 
@@ -31,9 +31,9 @@ I am good at searching for mistakes, errors, inconsistencies, always keen on imp
   </a>
 </div>
 
-e-mail: anton.tereshchenko667@gmail.com
+``e-mail``: anton.tereshchenko667@gmail.com
 
-Telegram: @EAG038
+``Telegram``: @EAG038
 
 ## My projects
 
@@ -48,7 +48,8 @@ Task 2: Do the retro testing
 
 The task was to do the functional testing of the new feature (both frontend & backend) and make sure that the feature interacts well with the build. 
 
-The case is available in Russian only at the moment: https://teresantqa.atlassian.net/wiki/spaces/SD/pages/65541/2
+The case is available in Russian only at the moment: 
+<a href="https://teresantqa.atlassian.net/wiki/spaces/SD/pages/65541/2">Link to project</a>
 
 Results: 
 1. Test plan was developed and duly executed.
