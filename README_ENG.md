@@ -25,11 +25,7 @@ I am good at searching for mistakes, errors, inconsistencies, always keen on imp
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
 ## My contacts
-<div id="badges">
-  <a href="www.linkedin.com/in/antontereshchenko667">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+``LinkedIn``: <a href="www.linkedin.com/in/antontereshchenko667">Profile</a>
 
 ``e-mail``: anton.tereshchenko667@gmail.com
 
