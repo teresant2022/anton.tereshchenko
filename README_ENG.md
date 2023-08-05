@@ -14,11 +14,22 @@ Now I am changing the course once again and look for career opportunity as QA sp
 
 I am good at searching for mistakes, errors, inconsistencies, always keen on imporoving on-going processes. 
 
-## My tech stack
+---
 
-Postman, Fiddler, Soap UI, Jmeter, Jira, Qase.io, PostgreSQL Trello, Chrome DevTools, MS Pack.
+### :hammer_and_wrench: QA Tools :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Google Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Atlassian Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Atlassian Jira" alt="Jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PSQL" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
 ## My contacts
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 e-mail: anton.tereshchenko667@gmail.com
 
