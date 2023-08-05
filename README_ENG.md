@@ -16,7 +16,7 @@ I am good at searching for mistakes, errors, inconsistencies, always keen on imp
 
 ## My tech stack
 
-Postman, Soap UI, Jmeter, Jira, Qase.io, PostgreSQL Trello, MS Pack.
+Postman, Fiddler, Soap UI, Jmeter, Jira, Qase.io, PostgreSQL Trello, Chrome DevTools, MS Pack.
 
 ## My contacts
 
