@@ -2,7 +2,7 @@
 
 ## Кратий обзор 
 
-Приветствую в своем репозитории! Здесь я собираюсь делиться своими учебными и коммерческими кейсами, проектами.
+Меня зовут ``Антон`` и я приветствую Вас своем репозитории! Здесь я собираюсь делиться с Вами своими учебными и коммерческими кейсами, проектами.
 
 ## О себе 
 
@@ -10,22 +10,36 @@
 
 С 2018 года работаю на международных проектах в роли переводчика и специалиста по безопасности. 
 
-Сейчас же вновь намерен сменить профессию и ищу себя в роли специалиста по качеству ПО.
+Сейчас же вновь намерен сменить профессию и ищу себя в роли ``специалиста по качеству ПО``.
 
 Мои сильные стороны: люблю искать ошибки, неточности, логические несоответствия, искать способы улучшения процессов.
 
-## Стэк 
+---
 
-Postman, Soap UI, Jmeter, Jira, Qase.io, PostgreSQL Trello, MS Pack.
+### :hammer_and_wrench: Инструменты QA, с которыми я работаю:
 
-## Контакты
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Google Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Atlassian Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Atlassian Jira" alt="Jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PSQL" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
-e-mail: anton.tereshchenko667@gmail.com
+## Мои контакты
+``LinkedIn``: <a href="www.linkedin.com/in/antontereshchenko667">Profile</a>
 
-Telegram: @EAG038
+``e-mail``: anton.tereshchenko667@gmail.com
+
+``Telegram``: @EAG038
 
 ## Мои проекты
 
-Project 1
+### Проект 1
+
+Тестирование новой функции в календаре в кабинете учителя на портале Skyeng (одна из ключевых учебных площадок в России)
+
+Задача: 
+- протестировать новую функцию календаря (добавление личных событий) через GUI и API.
+
+- убедиться в работоспособности билда после релиза новой функции (smoke- и регрессионное тестирование).
 
 Project 2
