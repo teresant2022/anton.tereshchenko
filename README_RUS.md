@@ -50,7 +50,6 @@
 - Составить отчет о результатах тестирования
 
 [Ссылка на проект](https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Project%201.md)
-
 ---
 
 ### Проект 2
@@ -80,7 +79,8 @@
 - На создание задачи должен возвращаться UUID новой задачи: в тело ответа нужно вписать "id": "{{faker 'datatype.uuid'}}” — эта строка сообщит Mockoon, что нужно использовать генератор данных (datatype) и подставить рандомный UUID.
 
 [Ссылка на проект](https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203/Project_3.md)
+---
 
-Найденные баги:
-
+### Найденные баги:
+- Баг, который нашел в игре Spiritfarer от канадской Thunder Lotus
 
