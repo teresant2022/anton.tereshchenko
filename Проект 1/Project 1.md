@@ -30,5 +30,5 @@
   
 - ##### [ОТЧЕТ О ТЕСТИРОВАНИИ] :
 На этом шаге была составлена подробная отчетная документация: [график проведения тестирования](https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Test%20Schedule.jpg), отчеты о тестировании (см. выше).
- Дано [общее заключение по готовности продукта, а также рекомендации](https://github.com/Igor-Maltcev/QA-tester/blob/main/Project_1/%D0%98%D1%82%D0%BE%D0%B3.PNG)
+ Дано [общее заключение по готовности продукта, а также рекомендации](https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Conclusion%20and%20recoms.jpg).
  
