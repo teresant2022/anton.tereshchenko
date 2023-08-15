@@ -8,3 +8,8 @@
 
 При этом пользователь теряет управление и вынужден выходить в главное меню, чтобы зайти в кооп уже с подключенным вторым игроком.
 
+На сайте разработчика заполнил баг-репорт по указанной форме, а также указал шаги для воспроизведения бага, ожидаемый и фактический результат, приоритет и критичность. ![_](https://github.com/teresant2022/anton.tereshchenko/blob/main/Chased_bugs/New%20support%20request%20from%20Anton%20Spiritfarer%20%E2%80%93%20Bug%20report%20-%20teresantphoto1gmail.com%20-%20Gmail%20-%20Google%20Chrome.jpg)  ![](https://github.com/teresant2022/anton.tereshchenko/blob/main/Chased_bugs/Bugs%20step.jpg) 
+
+Ответ техподдержки вскоре пришел. 
+Намного ценнее извинений мне было осознание того, что я помог стать и без того хорошей игре немного лучше, ведь мои навыки QA мне пригодились.
+![_](https://github.com/teresant2022/anton.tereshchenko/blob/main/Chased_bugs/Reply%20from%20TL.jpg) 
