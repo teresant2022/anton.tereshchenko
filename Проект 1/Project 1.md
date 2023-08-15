@@ -3,10 +3,7 @@
 Как решал задачу:
 
 Провел анализ стейкхолдеров, на основе основных пользовательских сценариев составил приемочные тест-кейсы; после чего составил общий тест-план в Confluence с указанием видов, сроков тестирования; провел декомпозицию продукта, подготовил чек-листы в Checkvist по функциональному тестированию, регрессиононному тестированию, провел тестирование требований продукта, составил тест-кейсы в qase.io по приемочному и smoke тестированиям, создал Postman-коллекцию, провел test-run, завел баги в баг-трекинговой системе Jira, подготовил отчет по тестированию в Confluence.
-- ##### [ТЕСТ ПЛАН ПРОЕКТА]
-(https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Test%20Plan_1.jpg)
-(https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Test%20Plan_2.jpg)
-(https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Test%20Plan_3.jpg)
+- ##### ![ТЕСТ ПЛАН ПРОЕКТА](https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Test%20Plan_1.jpg)![ТЕСТ ПЛАН ПРОЕКТА](https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Test%20Plan_2.jpg?raw=true)![ТЕСТ ПЛАН ПРОЕКТА](https://github.com/teresant2022/anton.tereshchenko/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201/Test%20Plan_3.jpg?raw=true)
 
 - Шаг 1. Знакомство с требованиями: [Здесь](https://skyengpublic.notion.site/6746e543d02c43879de0057cafe196b0/) я познакомился с требованиями к функционалу «Личные события» на вкладке «Расписание». 
  - Шаг 2.  Узнал, кем явлются основные пользователи нашей системы, чтобы понять, какие приемочные тест-кейсы написать. Ознакомился с [описанием наших стейкхолдеров](https://github.com/Igor-Maltcev/QA-tester/blob/main/Project_1/userstory.PNG/)
