@@ -39,22 +39,16 @@ I am good at searching for mistakes, errors, inconsistencies, always keen on imp
 
 ## My projects
 
-### Project 1 
+### Projects 1 
 Testing of web app for teachers in Skyeng (major English studying platform in Russia)
-
-Task 1: Test the new feature - Personal events in teacher's calendar (both frontend & backend)
-
-Task 2: Do the retro testing
-
->Short descirption: a new feature was introduced to the teacher's calendar - the personel events, which would help the teachers to trace extracurricular activities. 
 
 The task was to do the functional testing of the new feature (both frontend & backend) and make sure that the feature interacts well with the build. 
 
 The case is available in Russian only at the moment: 
 <a href="https://teresantqa.atlassian.net/wiki/spaces/SD/pages/65541/2">Link to project</a>
 
-Results: 
-1. Test plan was developed and duly executed.
-2. In course of testing certain flaws in technical assignment was identified.
-3. 1 critical bug was identified and documented for further follow-up.
-4. General recommendations drafted.
+### Projects 2-3
+
+### Chased_bugs
+
+### Elefanto cases
