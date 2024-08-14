@@ -14,10 +14,10 @@
 -  Get a task list [List Tasks](https://drive.google.com/file/d/1I4ueDJA-Bxw7LRVYtp7tzsSSq6eeACMQ/view?usp=sharing/)
 -  Add a task [Add Task](https://drive.google.com/file/d/13wl8FVoITrZ9T45Uu-FGtiIPCSuTdV8S/view?usp=sharing/)
 -   Get task list [List_Tasks](https://drive.google.com/file/d/1K6gbeGpgRtn3VYOjGyiyqJf_38Piinek/view?usp=sharing/)
--   checking via UI [UI](https://drive.google.com/file/d/1s_Bzwl_wQGkfK-JMbe3jvoU8G7F1m0wf/view?usp=sharing/)
+-   checking via [UI](https://drive.google.com/file/d/1s_Bzwl_wQGkfK-JMbe3jvoU8G7F1m0wf/view?usp=sharing/)
 -   delete a task [Delete_Task](https://drive.google.com/file/d/1z0wcCS7JhY_ty9a1k3Vfq8Oy5qcgeqhy/view?usp=sharing/)
 -   Get task list [List_Tasks](https://drive.google.com/file/d/1lGioLdKbrco8QxdeMxkANBLGQqoFoM9u/view?usp=sharing/)
--   checking via UI [UI](https://drive.google.com/file/d/10CLnNKQVXeA2Ogv4Zn0lx_4KNl6hrHI4/view?usp=sharing/)
+-   checking via [UI](https://drive.google.com/file/d/10CLnNKQVXeA2Ogv4Zn0lx_4KNl6hrHI4/view?usp=sharing/)
 
 #### Mockoon заглушки : 
 - получение списка задач [List_Moc](https://drive.google.com/file/d/10bHfp29bhJ27_xhcFxO27BTBN8rIoYRi/view?usp=sharing/)
