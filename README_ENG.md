@@ -28,7 +28,7 @@ I am good at searching for mistakes, errors, inconsistencies, always keen on imp
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PSQL" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" title="Jam" alt="Jam" width="40" height="40"/>&nbsp; 
+<img src="https://assets.asana.biz/transform/1fd9db4e-f8fd-474d-b3e2-f405c7589763/jam-color" title="Jam" alt="Jam" width="40" height="40"/>&nbsp; 
 
 ## My contacts
 ``LinkedIn``: <a href="www.linkedin.com/in/antontereshchenko667">Profile</a>
