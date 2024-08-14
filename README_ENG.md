@@ -10,6 +10,10 @@ I graduated from Omsk State University in 2016, Foreign languages department.
 Since 2018 I've been working at international projects in linguistic and safety positions. 
 Now I am changing the course once again and look for career opportunity as ``QA specialist``. 
 
+Currently I work at Elefanto Digital Studio and work on my hands-on experience.
+We work on various projects and all of them got some bugs to share.
+I am binded by NDA, but some things are legit for sharing ;)
+
 ## My pros
 
 I am good at searching for mistakes, errors, inconsistencies, always keen on imporoving on-going processes. 
