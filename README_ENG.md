@@ -49,6 +49,10 @@ The case is available in Russian only at the moment:
 
 ### Projects 2-3
 
+#### Pr2: Testing of calendar in Skyeng Teacher Calendar via API (Postman).
+
+Pr3:
+
 ### Chased_bugs
 
 ### Elefanto cases
