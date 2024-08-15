@@ -50,6 +50,7 @@ The case is available in Russian only at the moment:
 ### Projects 2-3
 
 #### Pr2: Testing of calendar in Skyeng Teacher Calendar via API (Postman).
+<a href="https://github.com/teresant2022/anton.tereshchenko/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202">Link to project</a>
 
 #### Pr3: Designing of FAT for a ToDo List app, use of stud objects.
 
